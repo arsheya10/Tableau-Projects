@@ -5,3 +5,4 @@ Region-wise Avg 12month %Change Assignment2 Link: https://public.tableau.com/app
 
 Region- Wise Avg Index Assignment2 Link: 
 https://public.tableau.com/app/profile/arsheya.begum/viz/RegionWiseAvgIndxAssinmnent/Sheet32
+Tableau Practice Class Files https://github.com/DataScience75/Batch-94/blob/main/Retail.xls
