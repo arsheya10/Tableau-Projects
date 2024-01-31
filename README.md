@@ -29,3 +29,9 @@ https://public.tableau.com/app/profile/arsheya.begum/viz/RegionWiseProfits_17067
 Amazon State-Wise Profit and Loss 
 https://public.tableau.com/app/profile/arsheya.begum/viz/RegionWiseProfits_17067013751590/Map2?publish=yes
 
+Dashboards showing two pie charts https://public.tableau.com/app/profile/arsheya.begum/viz/RegionWiseProfits_17067013751590/Dashboard1?publish=yes
+
+Amazon Discounts based on Sub Categories https://public.tableau.com/app/profile/arsheya.begum/viz/RegionWiseProfits_17067013751590/Heatmaps2?publish=yes
+
+Amazon Sales City Wise https://public.tableau.com/app/profile/arsheya.begum/viz/RegionWiseProfits_17067013751590/Sheet10?publish=yes 
+
