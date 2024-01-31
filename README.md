@@ -1,11 +1,12 @@
 # Tableau-Projects
+
 Smallest File Size per Extension Assignment1 
 https://public.tableau.com/app/profile/arsheya.begum/viz/SmallestFileExtensionAssignment/Sheet1
 
 Region-wise Avg 12month %Change Assignment2 
 https://public.tableau.com/app/profile/arsheya.begum/viz/Assignment_17057460702640/Sheet3
 
-Region- Wise Avg Index Assignment2 Link: 
+Region- Wise Avg Index Assignment2
 https://public.tableau.com/app/profile/arsheya.begum/viz/RegionWiseAvgIndxAssinmnent/Sheet32
 
 Practice Class Files https://github.com/DataScience75/Batch-94/blob/main/Retail.xls
